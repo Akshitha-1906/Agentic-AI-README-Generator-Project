@@ -11,7 +11,7 @@
 - 📝 **Generates Stunning README.md Files** – Clean, structured and aesthetic Markdown with emojis.
 - 🤖 **AI Content Generation** – Uses Google Gemini Chat Model to create meaningful descriptions.
 - 🔄 **Automated GitHub Commit** – Creates & pushes README.md directly into the repo.
-- 📁 **Repository Parsing** – Reads project file structure and uses it inside README.
+- 📁 **Repository Parsing** – Reads project file structure and uses it inside the README.
 - 🧩 **Fully Customizable** – Add project name, features, tech stack, etc., dynamically.
 
 ---
@@ -28,19 +28,33 @@
 
 ## 🖼️ Example Output
 
-```md
-🌟 Project Name: Awesome App
+    🌟 Project Name: Awesome App
 
-🚀 Description:
-A modern and scalable project built using cutting-edge technologies.
+    🚀 Description:
+    A modern and scalable project built using cutting-edge technologies.
 
-📂 Project Structure:
-- src/
-- components/
-- README.md (auto-generated)
+    📂 Project Structure:
+    - src/
+    - components/
+    - README.md (auto-generated)
+
+    ✅ README Generated Successfully!
+
 ---
-📌 Author
 
-👩‍💻 Developed by Akshitha Reddy
-⭐ If you like this project, don’t forget to star the repo!
+## 🛠️ Tech Stack
+
+| Component | Purpose |
+|----------|----------|
+| ⚡ n8n | Workflow automation |
+| 🤖 Google Gemini Chat Model | Generating README content |
+| 🐙 GitHub API | Commit file into repo |
+| 🟨 JavaScript | Logic and file handling |
+
+---
+
+## ⭐ Author
+
+👩‍💻 Developed by **Akshitha Reddy**  
+✨ If you like the project, don't forget to ⭐ star the repository!
 
