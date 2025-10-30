@@ -38,5 +38,12 @@ A modern and scalable project built using cutting-edge technologies.
 - src/
 - components/
 - README.md (auto-generated)
+---
+
+<h2>📌 Author</h2>
+<p>
+👩‍💻 Developed by <b>Akshitha Reddy</b><br/>
+⭐ If you like this project, don’t forget to star the repo!
+</p>
 
 ✅ README Generated Successfully!
