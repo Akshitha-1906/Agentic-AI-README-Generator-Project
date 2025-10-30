@@ -41,9 +41,6 @@ A modern and scalable project built using cutting-edge technologies.
 ---
 📌 Author
 
-👩‍💻 Developed by <b>Akshitha Reddy</b><br/>
+👩‍💻 Developed by Akshitha Reddy
 ⭐ If you like this project, don’t forget to star the repo!
 
-
-
-✅ README Generated Successfully!
